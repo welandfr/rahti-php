@@ -1,7 +1,7 @@
 <?php 
 
 try {
-    echo "v2";
+    echo "v3";
 
 } catch (Exception $e) {
     print_r($e);
